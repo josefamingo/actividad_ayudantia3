@@ -1,0 +1,27 @@
+#Inicio{
+    background-color: aqua;
+    font-variant: initial;
+}
+
+.Destacado{
+    font-size: 30px;
+}
+
+#Cuerpo{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+}
+
+#imagen1{
+    margin:30px;
+    padding: 4px;
+}
+
+body{
+    margin: 20px;
+}
+
+#imagen2{
+    width: 30px;
+    height: 30px;
+}
